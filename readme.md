@@ -6,5 +6,5 @@ $ npm install --save cory-js-footer
 ```
 Add to your Javascript Project with the following code:
 ```javascript
-import { footer } from 'yourName-js-footer';
+import { footer } from 'cory-js-footer';
 footer('Some Name');

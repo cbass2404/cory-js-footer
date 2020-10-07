@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cbass2404/cory-js-footer/issues"
   },
-  "homepage": "https://github.com/cbass2404/cory-js-footer#readme"
+  "homepage": "https://github.com/cbass2404/cory-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
