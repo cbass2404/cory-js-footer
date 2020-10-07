@@ -1,0 +1,19 @@
+{
+  "name": "cory-js-footer",
+  "version": "1.0.0",
+  "description": "dynamic footer with a date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbass2404/cory-js-footer.git"
+  },
+  "author": "Cory Bass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbass2404/cory-js-footer/issues"
+  },
+  "homepage": "https://github.com/cbass2404/cory-js-footer#readme"
+}
